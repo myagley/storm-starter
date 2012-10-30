@@ -1,0 +1,11 @@
+target/
+dist/
+logs/
+project/boot/
+project/plugins/project
+lib_managed
+src_managed
+*.sublime-project
+*.sublime-workspace
+*.pyc
+src/scripts/hosts.py
